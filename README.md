@@ -4,13 +4,11 @@ The `WYVRN` Configuration Editor is a GUI tool for creating and editing `WYVRN` 
 
 Find the latest `WYVRN` Configuration Editor in [Releases](https://github.com/WyvrnOfficial/WyvrnConfigurationEditor/releases).
 
-Use the editor to open `WYVRN` configurations found within the 
+Use the editor to open `WYVRN` configurations found within the subfolders distributed by [Razer Synapse](https://www.razer.com/synapse-4).
 
 ```
 C:\Program Files (x86)\InterHaptics\HapticFolders
 ```
-
-subfolders distributed by [Razer Synapse](https://www.razer.com/synapse-4).
 
 Check out the [WYVRN Effects Library](https://doc.wyvrn.com/tools/WyvrnEffectsLibrary/) to see a configuration that was created with the editor.
 
