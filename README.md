@@ -73,3 +73,9 @@ The haptics tab manages haptic events and targeting. Haptic events can have mult
 Any UI changes automatically updates the JSON configuration at the bottom of the page.
 
 ![image_11](images/image_11.png)
+
+# Tab - Debug
+
+The `Debug` tab links to diagnostic tools and lists any unreferenced assets that might be missing from the configuration.
+
+![image_12](images/image_12.png)
