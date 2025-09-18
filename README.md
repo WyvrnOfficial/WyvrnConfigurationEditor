@@ -1,6 +1,8 @@
 # WYVRN Configuration Editor
 
-The WYVRN Configuration Editor is a GUI tool for creating and editing `WYVRN` configuration files that control how games react to game events. Use the `WYVRN SDK` with event names created in the editor that are fed to the `SetEventName` method to trigger playback.
+The `WYVRN` Configuration Editor is a GUI tool for creating and editing `WYVRN` configuration files that control how games react to game events. Use the `WYVRN SDK` with event names created in the editor that are fed to the `SetEventName` method to trigger playback.
+
+Find the latest `WYVRN` Configuration Editor in [Releases](https://github.com/WyvrnOfficial/WyvrnConfigurationEditor/releases).
 
 Use the editor to open `WYVRN` configurations found within the 
 
