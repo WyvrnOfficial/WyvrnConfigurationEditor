@@ -10,7 +10,7 @@ Use the editor to open `WYVRN` configurations found within the subfolders distri
 C:\Program Files (x86)\InterHaptics\HapticFolders
 ```
 
-Check out the [WYVRN Effects Library](https://doc.wyvrn.com/tools/WyvrnEffectsLibrary/) to see a configuration that was created with the editor.
+Check out the [WYVRN Effects Library](https://doc.wyvrn.com/docs/wyvrn-sdk/wyvrn-configuration/wyvrn-effects-library/) to see a configuration that was created with the editor.
 
 ![image_1](images/image_1.png)
 
